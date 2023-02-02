@@ -1,0 +1,13 @@
+C:\Users\neito\source\repos\1.2TDAEjemplo\1.2TDAEjemplo\bin\Debug\netcoreapp3.1\1.2TDAEjemplo.exe
+C:\Users\neito\source\repos\1.2TDAEjemplo\1.2TDAEjemplo\bin\Debug\netcoreapp3.1\1.2TDAEjemplo.deps.json
+C:\Users\neito\source\repos\1.2TDAEjemplo\1.2TDAEjemplo\bin\Debug\netcoreapp3.1\1.2TDAEjemplo.runtimeconfig.json
+C:\Users\neito\source\repos\1.2TDAEjemplo\1.2TDAEjemplo\bin\Debug\netcoreapp3.1\1.2TDAEjemplo.runtimeconfig.dev.json
+C:\Users\neito\source\repos\1.2TDAEjemplo\1.2TDAEjemplo\bin\Debug\netcoreapp3.1\1.2TDAEjemplo.dll
+C:\Users\neito\source\repos\1.2TDAEjemplo\1.2TDAEjemplo\bin\Debug\netcoreapp3.1\1.2TDAEjemplo.pdb
+C:\Users\neito\source\repos\1.2TDAEjemplo\1.2TDAEjemplo\obj\Debug\netcoreapp3.1\1.2TDAEjemplo.csprojAssemblyReference.cache
+C:\Users\neito\source\repos\1.2TDAEjemplo\1.2TDAEjemplo\obj\Debug\netcoreapp3.1\1.2TDAEjemplo.AssemblyInfoInputs.cache
+C:\Users\neito\source\repos\1.2TDAEjemplo\1.2TDAEjemplo\obj\Debug\netcoreapp3.1\1.2TDAEjemplo.AssemblyInfo.cs
+C:\Users\neito\source\repos\1.2TDAEjemplo\1.2TDAEjemplo\obj\Debug\netcoreapp3.1\1.2TDAEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\neito\source\repos\1.2TDAEjemplo\1.2TDAEjemplo\obj\Debug\netcoreapp3.1\1.2TDAEjemplo.dll
+C:\Users\neito\source\repos\1.2TDAEjemplo\1.2TDAEjemplo\obj\Debug\netcoreapp3.1\1.2TDAEjemplo.pdb
+C:\Users\neito\source\repos\1.2TDAEjemplo\1.2TDAEjemplo\obj\Debug\netcoreapp3.1\1.2TDAEjemplo.genruntimeconfig.cache

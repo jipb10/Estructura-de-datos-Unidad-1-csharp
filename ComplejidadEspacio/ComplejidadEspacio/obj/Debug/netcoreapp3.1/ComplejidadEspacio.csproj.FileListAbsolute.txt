@@ -1,0 +1,26 @@
+C:\Users\neito\source\repos\ComplejidadEspacio\ComplejidadEspacio\bin\Debug\netcoreapp3.1\ComplejidadEspacio.exe
+C:\Users\neito\source\repos\ComplejidadEspacio\ComplejidadEspacio\bin\Debug\netcoreapp3.1\ComplejidadEspacio.deps.json
+C:\Users\neito\source\repos\ComplejidadEspacio\ComplejidadEspacio\bin\Debug\netcoreapp3.1\ComplejidadEspacio.runtimeconfig.json
+C:\Users\neito\source\repos\ComplejidadEspacio\ComplejidadEspacio\bin\Debug\netcoreapp3.1\ComplejidadEspacio.runtimeconfig.dev.json
+C:\Users\neito\source\repos\ComplejidadEspacio\ComplejidadEspacio\bin\Debug\netcoreapp3.1\ComplejidadEspacio.dll
+C:\Users\neito\source\repos\ComplejidadEspacio\ComplejidadEspacio\bin\Debug\netcoreapp3.1\ComplejidadEspacio.pdb
+C:\Users\neito\source\repos\ComplejidadEspacio\ComplejidadEspacio\obj\Debug\netcoreapp3.1\ComplejidadEspacio.csprojAssemblyReference.cache
+C:\Users\neito\source\repos\ComplejidadEspacio\ComplejidadEspacio\obj\Debug\netcoreapp3.1\ComplejidadEspacio.AssemblyInfoInputs.cache
+C:\Users\neito\source\repos\ComplejidadEspacio\ComplejidadEspacio\obj\Debug\netcoreapp3.1\ComplejidadEspacio.AssemblyInfo.cs
+C:\Users\neito\source\repos\ComplejidadEspacio\ComplejidadEspacio\obj\Debug\netcoreapp3.1\ComplejidadEspacio.csproj.CoreCompileInputs.cache
+C:\Users\neito\source\repos\ComplejidadEspacio\ComplejidadEspacio\obj\Debug\netcoreapp3.1\ComplejidadEspacio.dll
+C:\Users\neito\source\repos\ComplejidadEspacio\ComplejidadEspacio\obj\Debug\netcoreapp3.1\ComplejidadEspacio.pdb
+C:\Users\neito\source\repos\ComplejidadEspacio\ComplejidadEspacio\obj\Debug\netcoreapp3.1\ComplejidadEspacio.genruntimeconfig.cache
+C:\Users\neito\Desktop\EBD\Unidad 1\ComplejidadEspacio\ComplejidadEspacio\bin\Debug\netcoreapp3.1\ComplejidadEspacio.exe
+C:\Users\neito\Desktop\EBD\Unidad 1\ComplejidadEspacio\ComplejidadEspacio\bin\Debug\netcoreapp3.1\ComplejidadEspacio.deps.json
+C:\Users\neito\Desktop\EBD\Unidad 1\ComplejidadEspacio\ComplejidadEspacio\bin\Debug\netcoreapp3.1\ComplejidadEspacio.runtimeconfig.json
+C:\Users\neito\Desktop\EBD\Unidad 1\ComplejidadEspacio\ComplejidadEspacio\bin\Debug\netcoreapp3.1\ComplejidadEspacio.runtimeconfig.dev.json
+C:\Users\neito\Desktop\EBD\Unidad 1\ComplejidadEspacio\ComplejidadEspacio\bin\Debug\netcoreapp3.1\ComplejidadEspacio.dll
+C:\Users\neito\Desktop\EBD\Unidad 1\ComplejidadEspacio\ComplejidadEspacio\bin\Debug\netcoreapp3.1\ComplejidadEspacio.pdb
+C:\Users\neito\Desktop\EBD\Unidad 1\ComplejidadEspacio\ComplejidadEspacio\obj\Debug\netcoreapp3.1\ComplejidadEspacio.csprojAssemblyReference.cache
+C:\Users\neito\Desktop\EBD\Unidad 1\ComplejidadEspacio\ComplejidadEspacio\obj\Debug\netcoreapp3.1\ComplejidadEspacio.AssemblyInfoInputs.cache
+C:\Users\neito\Desktop\EBD\Unidad 1\ComplejidadEspacio\ComplejidadEspacio\obj\Debug\netcoreapp3.1\ComplejidadEspacio.AssemblyInfo.cs
+C:\Users\neito\Desktop\EBD\Unidad 1\ComplejidadEspacio\ComplejidadEspacio\obj\Debug\netcoreapp3.1\ComplejidadEspacio.csproj.CoreCompileInputs.cache
+C:\Users\neito\Desktop\EBD\Unidad 1\ComplejidadEspacio\ComplejidadEspacio\obj\Debug\netcoreapp3.1\ComplejidadEspacio.dll
+C:\Users\neito\Desktop\EBD\Unidad 1\ComplejidadEspacio\ComplejidadEspacio\obj\Debug\netcoreapp3.1\ComplejidadEspacio.pdb
+C:\Users\neito\Desktop\EBD\Unidad 1\ComplejidadEspacio\ComplejidadEspacio\obj\Debug\netcoreapp3.1\ComplejidadEspacio.genruntimeconfig.cache
