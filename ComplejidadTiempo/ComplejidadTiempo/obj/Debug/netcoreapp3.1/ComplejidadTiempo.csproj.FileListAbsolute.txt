@@ -1,0 +1,13 @@
+C:\Users\neito\source\repos\ComplejidadTiempo\ComplejidadTiempo\bin\Debug\netcoreapp3.1\ComplejidadTiempo.exe
+C:\Users\neito\source\repos\ComplejidadTiempo\ComplejidadTiempo\bin\Debug\netcoreapp3.1\ComplejidadTiempo.deps.json
+C:\Users\neito\source\repos\ComplejidadTiempo\ComplejidadTiempo\bin\Debug\netcoreapp3.1\ComplejidadTiempo.runtimeconfig.json
+C:\Users\neito\source\repos\ComplejidadTiempo\ComplejidadTiempo\bin\Debug\netcoreapp3.1\ComplejidadTiempo.runtimeconfig.dev.json
+C:\Users\neito\source\repos\ComplejidadTiempo\ComplejidadTiempo\bin\Debug\netcoreapp3.1\ComplejidadTiempo.dll
+C:\Users\neito\source\repos\ComplejidadTiempo\ComplejidadTiempo\bin\Debug\netcoreapp3.1\ComplejidadTiempo.pdb
+C:\Users\neito\source\repos\ComplejidadTiempo\ComplejidadTiempo\obj\Debug\netcoreapp3.1\ComplejidadTiempo.csprojAssemblyReference.cache
+C:\Users\neito\source\repos\ComplejidadTiempo\ComplejidadTiempo\obj\Debug\netcoreapp3.1\ComplejidadTiempo.AssemblyInfoInputs.cache
+C:\Users\neito\source\repos\ComplejidadTiempo\ComplejidadTiempo\obj\Debug\netcoreapp3.1\ComplejidadTiempo.AssemblyInfo.cs
+C:\Users\neito\source\repos\ComplejidadTiempo\ComplejidadTiempo\obj\Debug\netcoreapp3.1\ComplejidadTiempo.csproj.CoreCompileInputs.cache
+C:\Users\neito\source\repos\ComplejidadTiempo\ComplejidadTiempo\obj\Debug\netcoreapp3.1\ComplejidadTiempo.dll
+C:\Users\neito\source\repos\ComplejidadTiempo\ComplejidadTiempo\obj\Debug\netcoreapp3.1\ComplejidadTiempo.pdb
+C:\Users\neito\source\repos\ComplejidadTiempo\ComplejidadTiempo\obj\Debug\netcoreapp3.1\ComplejidadTiempo.genruntimeconfig.cache

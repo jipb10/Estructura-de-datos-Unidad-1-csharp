@@ -1,0 +1,13 @@
+C:\Users\neito\source\repos\MemoriaLocal\MemoriaLocal\bin\Debug\netcoreapp3.1\MemoriaLocal.exe
+C:\Users\neito\source\repos\MemoriaLocal\MemoriaLocal\bin\Debug\netcoreapp3.1\MemoriaLocal.deps.json
+C:\Users\neito\source\repos\MemoriaLocal\MemoriaLocal\bin\Debug\netcoreapp3.1\MemoriaLocal.runtimeconfig.json
+C:\Users\neito\source\repos\MemoriaLocal\MemoriaLocal\bin\Debug\netcoreapp3.1\MemoriaLocal.runtimeconfig.dev.json
+C:\Users\neito\source\repos\MemoriaLocal\MemoriaLocal\bin\Debug\netcoreapp3.1\MemoriaLocal.dll
+C:\Users\neito\source\repos\MemoriaLocal\MemoriaLocal\bin\Debug\netcoreapp3.1\MemoriaLocal.pdb
+C:\Users\neito\source\repos\MemoriaLocal\MemoriaLocal\obj\Debug\netcoreapp3.1\MemoriaLocal.csprojAssemblyReference.cache
+C:\Users\neito\source\repos\MemoriaLocal\MemoriaLocal\obj\Debug\netcoreapp3.1\MemoriaLocal.AssemblyInfoInputs.cache
+C:\Users\neito\source\repos\MemoriaLocal\MemoriaLocal\obj\Debug\netcoreapp3.1\MemoriaLocal.AssemblyInfo.cs
+C:\Users\neito\source\repos\MemoriaLocal\MemoriaLocal\obj\Debug\netcoreapp3.1\MemoriaLocal.csproj.CoreCompileInputs.cache
+C:\Users\neito\source\repos\MemoriaLocal\MemoriaLocal\obj\Debug\netcoreapp3.1\MemoriaLocal.dll
+C:\Users\neito\source\repos\MemoriaLocal\MemoriaLocal\obj\Debug\netcoreapp3.1\MemoriaLocal.pdb
+C:\Users\neito\source\repos\MemoriaLocal\MemoriaLocal\obj\Debug\netcoreapp3.1\MemoriaLocal.genruntimeconfig.cache

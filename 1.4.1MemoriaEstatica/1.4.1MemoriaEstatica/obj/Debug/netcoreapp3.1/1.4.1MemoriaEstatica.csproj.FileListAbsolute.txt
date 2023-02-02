@@ -1,0 +1,13 @@
+C:\Users\neito\source\repos\1.4.1MemoriaEstatica\1.4.1MemoriaEstatica\obj\Debug\netcoreapp3.1\1.4.1MemoriaEstatica.csprojAssemblyReference.cache
+C:\Users\neito\source\repos\1.4.1MemoriaEstatica\1.4.1MemoriaEstatica\obj\Debug\netcoreapp3.1\1.4.1MemoriaEstatica.AssemblyInfoInputs.cache
+C:\Users\neito\source\repos\1.4.1MemoriaEstatica\1.4.1MemoriaEstatica\obj\Debug\netcoreapp3.1\1.4.1MemoriaEstatica.AssemblyInfo.cs
+C:\Users\neito\source\repos\1.4.1MemoriaEstatica\1.4.1MemoriaEstatica\obj\Debug\netcoreapp3.1\1.4.1MemoriaEstatica.csproj.CoreCompileInputs.cache
+C:\Users\neito\source\repos\1.4.1MemoriaEstatica\1.4.1MemoriaEstatica\bin\Debug\netcoreapp3.1\1.4.1MemoriaEstatica.exe
+C:\Users\neito\source\repos\1.4.1MemoriaEstatica\1.4.1MemoriaEstatica\bin\Debug\netcoreapp3.1\1.4.1MemoriaEstatica.deps.json
+C:\Users\neito\source\repos\1.4.1MemoriaEstatica\1.4.1MemoriaEstatica\bin\Debug\netcoreapp3.1\1.4.1MemoriaEstatica.runtimeconfig.json
+C:\Users\neito\source\repos\1.4.1MemoriaEstatica\1.4.1MemoriaEstatica\bin\Debug\netcoreapp3.1\1.4.1MemoriaEstatica.runtimeconfig.dev.json
+C:\Users\neito\source\repos\1.4.1MemoriaEstatica\1.4.1MemoriaEstatica\bin\Debug\netcoreapp3.1\1.4.1MemoriaEstatica.dll
+C:\Users\neito\source\repos\1.4.1MemoriaEstatica\1.4.1MemoriaEstatica\bin\Debug\netcoreapp3.1\1.4.1MemoriaEstatica.pdb
+C:\Users\neito\source\repos\1.4.1MemoriaEstatica\1.4.1MemoriaEstatica\obj\Debug\netcoreapp3.1\1.4.1MemoriaEstatica.dll
+C:\Users\neito\source\repos\1.4.1MemoriaEstatica\1.4.1MemoriaEstatica\obj\Debug\netcoreapp3.1\1.4.1MemoriaEstatica.pdb
+C:\Users\neito\source\repos\1.4.1MemoriaEstatica\1.4.1MemoriaEstatica\obj\Debug\netcoreapp3.1\1.4.1MemoriaEstatica.genruntimeconfig.cache

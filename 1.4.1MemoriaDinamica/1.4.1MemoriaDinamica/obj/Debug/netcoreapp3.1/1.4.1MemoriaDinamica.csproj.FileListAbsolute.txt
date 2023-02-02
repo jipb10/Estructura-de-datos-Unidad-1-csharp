@@ -1,0 +1,13 @@
+C:\Users\neito\source\repos\1.4.1MemoriaDinamica\1.4.1MemoriaDinamica\obj\Debug\netcoreapp3.1\1.4.1MemoriaDinamica.csprojAssemblyReference.cache
+C:\Users\neito\source\repos\1.4.1MemoriaDinamica\1.4.1MemoriaDinamica\obj\Debug\netcoreapp3.1\1.4.1MemoriaDinamica.AssemblyInfoInputs.cache
+C:\Users\neito\source\repos\1.4.1MemoriaDinamica\1.4.1MemoriaDinamica\obj\Debug\netcoreapp3.1\1.4.1MemoriaDinamica.AssemblyInfo.cs
+C:\Users\neito\source\repos\1.4.1MemoriaDinamica\1.4.1MemoriaDinamica\obj\Debug\netcoreapp3.1\1.4.1MemoriaDinamica.csproj.CoreCompileInputs.cache
+C:\Users\neito\source\repos\1.4.1MemoriaDinamica\1.4.1MemoriaDinamica\bin\Debug\netcoreapp3.1\1.4.1MemoriaDinamica.exe
+C:\Users\neito\source\repos\1.4.1MemoriaDinamica\1.4.1MemoriaDinamica\bin\Debug\netcoreapp3.1\1.4.1MemoriaDinamica.deps.json
+C:\Users\neito\source\repos\1.4.1MemoriaDinamica\1.4.1MemoriaDinamica\bin\Debug\netcoreapp3.1\1.4.1MemoriaDinamica.runtimeconfig.json
+C:\Users\neito\source\repos\1.4.1MemoriaDinamica\1.4.1MemoriaDinamica\bin\Debug\netcoreapp3.1\1.4.1MemoriaDinamica.runtimeconfig.dev.json
+C:\Users\neito\source\repos\1.4.1MemoriaDinamica\1.4.1MemoriaDinamica\bin\Debug\netcoreapp3.1\1.4.1MemoriaDinamica.dll
+C:\Users\neito\source\repos\1.4.1MemoriaDinamica\1.4.1MemoriaDinamica\bin\Debug\netcoreapp3.1\1.4.1MemoriaDinamica.pdb
+C:\Users\neito\source\repos\1.4.1MemoriaDinamica\1.4.1MemoriaDinamica\obj\Debug\netcoreapp3.1\1.4.1MemoriaDinamica.dll
+C:\Users\neito\source\repos\1.4.1MemoriaDinamica\1.4.1MemoriaDinamica\obj\Debug\netcoreapp3.1\1.4.1MemoriaDinamica.pdb
+C:\Users\neito\source\repos\1.4.1MemoriaDinamica\1.4.1MemoriaDinamica\obj\Debug\netcoreapp3.1\1.4.1MemoriaDinamica.genruntimeconfig.cache
