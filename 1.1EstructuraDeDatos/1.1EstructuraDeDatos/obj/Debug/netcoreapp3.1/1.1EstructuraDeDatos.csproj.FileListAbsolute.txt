@@ -1,0 +1,13 @@
+C:\Users\neito\source\repos\1.1EstructuraDeDatos\1.1EstructuraDeDatos\bin\Debug\netcoreapp3.1\1.1EstructuraDeDatos.exe
+C:\Users\neito\source\repos\1.1EstructuraDeDatos\1.1EstructuraDeDatos\bin\Debug\netcoreapp3.1\1.1EstructuraDeDatos.deps.json
+C:\Users\neito\source\repos\1.1EstructuraDeDatos\1.1EstructuraDeDatos\bin\Debug\netcoreapp3.1\1.1EstructuraDeDatos.runtimeconfig.json
+C:\Users\neito\source\repos\1.1EstructuraDeDatos\1.1EstructuraDeDatos\bin\Debug\netcoreapp3.1\1.1EstructuraDeDatos.runtimeconfig.dev.json
+C:\Users\neito\source\repos\1.1EstructuraDeDatos\1.1EstructuraDeDatos\bin\Debug\netcoreapp3.1\1.1EstructuraDeDatos.dll
+C:\Users\neito\source\repos\1.1EstructuraDeDatos\1.1EstructuraDeDatos\bin\Debug\netcoreapp3.1\1.1EstructuraDeDatos.pdb
+C:\Users\neito\source\repos\1.1EstructuraDeDatos\1.1EstructuraDeDatos\obj\Debug\netcoreapp3.1\1.1EstructuraDeDatos.csprojAssemblyReference.cache
+C:\Users\neito\source\repos\1.1EstructuraDeDatos\1.1EstructuraDeDatos\obj\Debug\netcoreapp3.1\1.1EstructuraDeDatos.AssemblyInfoInputs.cache
+C:\Users\neito\source\repos\1.1EstructuraDeDatos\1.1EstructuraDeDatos\obj\Debug\netcoreapp3.1\1.1EstructuraDeDatos.AssemblyInfo.cs
+C:\Users\neito\source\repos\1.1EstructuraDeDatos\1.1EstructuraDeDatos\obj\Debug\netcoreapp3.1\1.1EstructuraDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\neito\source\repos\1.1EstructuraDeDatos\1.1EstructuraDeDatos\obj\Debug\netcoreapp3.1\1.1EstructuraDeDatos.dll
+C:\Users\neito\source\repos\1.1EstructuraDeDatos\1.1EstructuraDeDatos\obj\Debug\netcoreapp3.1\1.1EstructuraDeDatos.pdb
+C:\Users\neito\source\repos\1.1EstructuraDeDatos\1.1EstructuraDeDatos\obj\Debug\netcoreapp3.1\1.1EstructuraDeDatos.genruntimeconfig.cache
